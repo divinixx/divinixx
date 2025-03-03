@@ -5,7 +5,7 @@ console.log('Welcome to my GitHub Profile! 🚀');
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Divyanshu+Garg;Frontend+%26+Android+Developer;Cybersecurity+Enthusiast;Web3.0+Explorer;Blockchain+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Divyanshu+Garg;Frontend+%26+Android+Developer;Cybersecurity+Enthusiast;Web3.0+Explorer;Blockchain+Learner" alt="Typing SVG" />
 </p>
 
 ### 🧑‍💻 Who am I?
@@ -33,15 +33,15 @@ I am a passionate **Frontend and Android Developer** 📱🎨 with a knack for c
 - 💪 Charity Management System
 
 ### 📫 How to Reach Me?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu-garg-111) 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/divinixx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu-garg-111) 
+[![Twitter](https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter)](https://twitter.com/divinixx) 
 📧 divinixxofficial@gmail.com
 
 ### 🎯 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divinixx&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divinixx&show_icons=true&theme=green-dark)
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divinixx&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divinixx&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### ⚡ Fun Fact
 I believe **Code is Poetry** 📝✨
