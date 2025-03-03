@@ -5,7 +5,7 @@ console.log('Welcome to my GitHub Profile! 🚀');
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hello+I+am+Divyanshu+Garg...;A+Android+Developer;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hello+I+am+Divyanshu+Garg...;Android+Developer;Frontend+Developer" alt="Typing SVG" />
 </p>
 
 ### 🧑‍💻 Who am I?
