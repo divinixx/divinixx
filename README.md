@@ -37,8 +37,6 @@ I am a passionate **Frontend and Android Developer** 📱🎨 with a knack for c
 [![Twitter](https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter)](https://twitter.com/divinixx) 
 📧 divinixxofficial@gmail.com
 
-### 🎯 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divinixx&show_icons=true&theme=green-dark)
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divinixx&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
